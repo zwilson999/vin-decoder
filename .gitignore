@@ -1,2 +1,2 @@
 *.swp
-/target
+vin_checksum_rust/target
